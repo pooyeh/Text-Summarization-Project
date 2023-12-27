@@ -1,2 +1,2 @@
 # Text-Summarization-Project
-This projects aims to be part of client claim classification project
+This project aims to be part of client claim classification project
